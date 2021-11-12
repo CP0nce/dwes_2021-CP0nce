@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# This repo is for all the practices before using laravel
 
 ## 🤓 Course overview and learning outcomes 
 
