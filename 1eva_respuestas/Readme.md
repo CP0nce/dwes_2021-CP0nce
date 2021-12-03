@@ -10,3 +10,5 @@ Se activan las funciones del padre (ver prueba 1.php)
 ###¿como afecta a la subclase que una propiedad sea privada o protegida en la clase padre? razona
 
 si las propiedades son privadas o protegidas no permiten a la clase hija acceder a ella (ver prueba2.php)
+
+url remoto: http://cponce.ifc33b.cifpfbmoll.eu/dwes_2021-CP0nce/
