@@ -98,7 +98,7 @@
             <label for="nombre">Introduce el nombre de la persona:</label>
             <input id="nombre" type="text" name="nombre" value="" /><br>
             <label for="numero">Introduce el telefono de la persona:</label>
-            <input id="numero" type="number" name="telefono" value="" /><br>
+            <input id="numero" type="number" name="numero" value="" /><br>
             <input type="submit" name="submit" value="Enviar"/>
         </form>
         <h1>Agenda</h1>
